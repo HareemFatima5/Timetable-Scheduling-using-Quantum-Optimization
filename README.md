@@ -16,7 +16,7 @@ In this project:
 - Quantum solvers are used to solve the QUBO and return binary solutions.
 - The results are decoded and analyzed in terms of feasibility and performance.
 
-This notebook-based solution evaluates the capability of current quantum systems to address practical optimization problems and 
+This notebook based solution evaluates the capability of current quantum systems to address practical optimization problems and 
 compares results with classical scheduling logic.
 
 
