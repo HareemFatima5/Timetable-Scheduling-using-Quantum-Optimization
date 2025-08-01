@@ -59,5 +59,5 @@ The core of the problem is represented in binary terms:
 - Extend support for more realistic scheduling constraints (e.g., preferred rooms, double lectures).
 - Build an interactive interface for non-technical users to input constraints and generate schedules.
 
-## File Structure
+
 
