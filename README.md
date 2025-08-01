@@ -1,6 +1,6 @@
 # Timetabling Scheduling Problem Using Quantum Optimization
 
-This repository presents a quantum computing approach to solving the university timetabling problem. The project formulates the scheduling task as a Quadratic Unconstrained Binary Optimization (QUBO) problem and uses quantum optimization techniques to generate feasible, conflict-free timetables. 
+This repository presents a quantum computing approach to solving the university timetabling problem. The project formulates the scheduling task as a Quadratic Unconstrained Binary Optimization (QUBO) problem and uses quantum optimization techniques to generate feasible, conflict free timetables. 
 It aims to explore whether quantum computing can offer practical advantages over traditional classical methods for constrained scheduling.
 
 
